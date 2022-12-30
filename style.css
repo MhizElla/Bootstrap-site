@@ -90,7 +90,7 @@ p{
 .title-image{
     position: absolute;
     right: 22%;
-    width: 27%;
+    width: 25%;
     transform: rotate(25deg)
        
     
@@ -128,7 +128,7 @@ p{
 }
 
 .testimonial-text{
-    font-size: 3rem;
+    font-size: 2rem;
     line-height: 1.5
 }
 
@@ -164,7 +164,7 @@ p{
 }
 
 .price-text{
-    font-size: 4rem;
+    font-size: 3rem;
     line-height: 1.5
 }
 
